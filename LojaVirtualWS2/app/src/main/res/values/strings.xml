@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Loja Virtual WS</string>
+    <string name="btn_toast">Logar</string>
+    <string name="txd_login">Login</string>
+    <string name="txd_senha">Senha</string>
+    <string name="btn_senha">Senha</string>
+
+</resources>

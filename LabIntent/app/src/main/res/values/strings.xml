@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab Intent</string>
+
+    <string-array name="acoes">
+    <item>Browser</item>
+    <item>Realizar uma chamada</item>
+    <item>Mapa</item>
+    <item>Tocar</item>
+    <item>SMS</item>
+    <item>Compartilhar</item>
+    <item>Alarme</item>
+    <item>Buscar na Web</item>
+    <item>Configurações</item>
+    <item>Minha ação 1</item>
+    <item>Minha ação 2</item>
+
+    </string-array>
+
+    <string name="erro_Intent">Ação não suportada.</string>
+</resources>

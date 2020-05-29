@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Obter Dados</string>
+    <string name="selecionar_estado">Selecione um estado</string>
+    <string name="action_setting">Configurações</string>
+    <string name="tittle_activity_tela_secao">Selecione</string>
+    <string-array name="estados">
+        <item>Alagoas</item>
+        <item>Bahia</item>
+        <item>Ceará</item>
+        <item>Maranhão</item>
+        <item>Paraiba</item>
+        <item>Pernambuco</item>
+        <item>Piauí</item>
+        <item>Sergipe</item>
+        <item>Rio Grande do Norte</item>
+    </string-array>
+
+
+</resources>
